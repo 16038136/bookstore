@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-bookstore-cart/static/css/main.a2e33dd7.chunk.css",
+    "main.js": "/react-bookstore-cart/static/js/main.e734040d.chunk.js",
+    "main.js.map": "/react-bookstore-cart/static/js/main.e734040d.chunk.js.map",
+    "runtime-main.js": "/react-bookstore-cart/static/js/runtime-main.e607833a.js",
+    "runtime-main.js.map": "/react-bookstore-cart/static/js/runtime-main.e607833a.js.map",
+    "static/js/2.4268ab66.chunk.js": "/react-bookstore-cart/static/js/2.4268ab66.chunk.js",
+    "static/js/2.4268ab66.chunk.js.map": "/react-bookstore-cart/static/js/2.4268ab66.chunk.js.map",
+    "index.html": "/react-bookstore-cart/index.html",
+    "precache-manifest.156c4e680f5d1d792f2433e7ea830764.js": "/react-bookstore-cart/precache-manifest.156c4e680f5d1d792f2433e7ea830764.js",
+    "service-worker.js": "/react-bookstore-cart/service-worker.js",
+    "static/css/main.a2e33dd7.chunk.css.map": "/react-bookstore-cart/static/css/main.a2e33dd7.chunk.css.map",
+    "static/js/2.4268ab66.chunk.js.LICENSE.txt": "/react-bookstore-cart/static/js/2.4268ab66.chunk.js.LICENSE.txt",
+    "static/media/README.md": "/react-bookstore-cart/static/media/README.23e5e9bf.md"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e607833a.js",
+    "static/js/2.4268ab66.chunk.js",
+    "static/css/main.a2e33dd7.chunk.css",
+    "static/js/main.e734040d.chunk.js"
+  ]
+}
